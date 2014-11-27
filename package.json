@@ -1,6 +1,6 @@
 {
-  "name": "powercommon",
-  "version": "0.13.0",
+  "name": "clonehunter",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node index.js"
