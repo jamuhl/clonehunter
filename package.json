@@ -1,0 +1,16 @@
+{
+  "name": "powercommon",
+  "version": "0.13.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotty": "0.0.2",
+    "lodash": "2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "1.16.2",
+    "expect.js": "0.2.0"
+  }
+}
